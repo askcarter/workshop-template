@@ -11,11 +11,10 @@ In this workshop, you'll will:
 * Learn how to unobstrusively collect feedback from attendees so that you can create even better content for them.
 * Learn how to smoothly run a workshop by yourself, with potentially 100s of attendees, by following this template.
 
-Here's an example;
-> ![](./docs/img/Workshop-Abstract-Example-v2.png)
-
-
 > **Note:** The first section of your github workshop is the 'abstract'. It tells users the benefits of running through your workshop and provided any additional resources they may need, if your workshop isn't for them. Often times I'll even include a link to a video or picture emphasising this point.  
+
+Here's an example:
+> ![](./docs/img/Workshop-Abstract-Example-v2.png)
 
 > **Note:** The biggest factor for if a workshop will be successful is preparation. Before you run the workshop, run through it a few times (using the same setup a user would). Most of my bad workshops came down to lack of preparation.
 
