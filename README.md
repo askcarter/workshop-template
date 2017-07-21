@@ -16,7 +16,7 @@ In this workshop, you'll will:
 Here's an example:
 > ![](./docs/img/Workshop-Abstract-Example-v2.png)
 
-> **Note:** The biggest factor for if a workshop will be successful is preparation. Before you run the workshop, run through it a few times (using the same setup a user would). Most of my bad workshops came down to lack of preparation.
+Lastly, the biggest factor determining if a workshop will be successful is preparation. Before you run the workshop, run through it a few times (using the same setup a user would). Most of my bad workshops came down to lack of preparation.  Although preparation is important, I won't be talking about it in this workshop.
 
 ## Labs
 
