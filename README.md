@@ -1,5 +1,5 @@
 # Workshop Title
-Any easy to follow template for running workshops.
+An easy to follow template for running workshops.
 
 It can be hard to know what makes a good workshop. How do you design a workshop in a way that makes it easy for users to follow along and provides natural checkpoints so that everyone is one the same page? We can design labs (or discrete learning points) to take into account how people learn and how workshops are generally taught.
 
