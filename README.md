@@ -1,7 +1,7 @@
 # Workshop Title
 An easy to follow template for running workshops.
 
-It can be hard to know what makes a good workshop. How do you design a workshop in a way that makes it easy for users to follow along and provides natural checkpoints so that everyone is one the same page? We can design labs (or discrete learning points) to take into account how people learn and how workshops are generally taught.
+It can be hard to know what makes a good workshop. How do you design a workshop in a way that makes it easy for users to follow along and provides natural checkpoints so that everyone is on the same page? We can design labs (or discrete learning points) to take into account how people learn and how workshops are generally taught.
 
 Another issue is collecting feedback about the workshop. Was the workshop useful? Was it everything it promised to be? What else should I have included? The easiest way to answer that is by running surveys and making them an OPTIONAL step in the workshop.
 
